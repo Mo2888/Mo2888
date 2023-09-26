@@ -1,31 +1,26 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# I am Mohamad
+## Junior Frontend Web Developer
 
-###
+### About Me
+I am a dedicated and highly motivated Junior Frontend Web Developer with a strong foundation in HTML, CSS, JavaScript, and React. My passion lies in crafting elegant and responsive user interfaces to enhance the overall user experience. Based in Berlin, I am committed to continuous improvement and staying up-to-date with the latest industry trends.
 
-<p align="left">My name is Mohamad and I'm a Frontend  Developer</p>
+### Skills
+- **Frontend Development:** HTML, CSS, JavaScript, React
+- **Version Control:** Git
+- **Development Tools:** Visual Studio Code, Responsive Design
+- **User Experience (UX):** Familiarity with UI/UX principles
 
-###
 
-<h2 align="left">Aspiring and motivated Frontend Developer with a strong passion for web development and a solid foundation in HTML, CSS, and JavaScript. Eager to kick-start a career in web development and contribute my technical skills and enthusiasm to create exceptional user experiences. Committed to staying updated with the latest web development trends and technologies</h2>
+### Portfolio
+You can explore my portfolio of projects (Your Portfolio Link). These projects demonstrate my skills in frontend development and my dedication to delivering high-quality web solutions.
 
-###
+### Contact
+- GitHub: https://github.com/Mo2888
+- LinkedIn:https://www.linkedin.com/in/mohamad-alghoul-6abaa4285
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
+I am open to collaboration and opportunities to contribute to exciting web development projects. Feel free to connect with me via GitHub, LinkedIn,  or to simply engage in conversations related to frontend web development.
 
-<h2 align="left">I code with HTML CSS JS REACT JS</h2>
+Let's create outstanding web experiences together!
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
-
-###
