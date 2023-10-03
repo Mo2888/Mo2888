@@ -8,7 +8,7 @@ I am a dedicated and highly motivated Junior Frontend Web Developer with a stron
 - **Frontend Development:** HTML, CSS, JavaScript, React
 - **Version Control:** Git
 - **Development Tools:** Visual Studio Code, Responsive Design
-- **User Experience (UX):** Familiarity with UI/UX principles
+
 
 
 ### Portfolio
