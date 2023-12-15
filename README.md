@@ -5,7 +5,7 @@
 I am a dedicated and highly motivated Junior Frontend Web Developer with a strong foundation in HTML, CSS, JavaScript, and React. My passion lies in crafting elegant and responsive user interfaces to enhance the overall user experience. Based in Berlin, I am committed to continuous improvement and staying up-to-date with the latest industry trends.
 
 ### Skills
-- **Frontend Development:** HTML, CSS, JavaScript, React
+- **Frontend Development:** HTML, CSS,bootstrap ,Sass,Tailwind,JavaScript,Typescript, React,NextJs
 - **Version Control:** Git
 - **Development Tools:** Visual Studio Code, Responsive Design
 
